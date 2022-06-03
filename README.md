@@ -1,6 +1,7 @@
 # whatsapp
 
 A new Flutter project.
+This is a Whatsapp clone app created using flutter.
 
 ## Getting Started
 
